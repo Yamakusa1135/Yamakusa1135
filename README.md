@@ -2,9 +2,6 @@
 
 ## About me
 
-![プロフィール画像](https://www.urouro.info/wp-content/uploads/2022/01/Lonhi9lf_400x400.jpg
- "山草")
-
  * I have a desire to be a full stack engineer.
  * I am interested in the network and security field.
  * I am learning as a working student.
@@ -25,7 +22,7 @@
 ## Related
 
 [![mugimugi](https://mugimugi.jp/images/mugimugi.jpg)](https://mugimugi.jp/)
-
+[![busy_banner](https://www.urouro.info/wp-content/uploads/2023/01/busy_banner.png)](https://sites.google.com/view/happy-busy/)
 
 [X(Twitter)](https://x.com/yamakusa1135)
 
