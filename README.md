@@ -8,7 +8,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,perl,php,wordpress,docker,py,fastapi,selenium,laravel,latex,postgres,nginx,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,c,perl,php,wordpress,docker,py,fastapi,selenium,laravel,latex,postgres,nginx,swift)](https://skillicons.dev)
 
 ## Likes
 
